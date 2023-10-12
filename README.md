@@ -16,7 +16,7 @@
 </div>
 
  <div align="center">
-  <img src="./readme_executor.svg"  alt="hero" />
+  <img src="./readme_executor_.svg"  alt="hero" />
  </div>
 
 Covalent is a Pythonic workflow tool for computational scientists, AI/ML software engineers, and anyone who needs to run experiments on limited or expensive computing resources including quantum computers, HPC clusters, GPU arrays, and cloud services.
@@ -45,7 +45,7 @@ https://github.com/Vamsi-Batchu/testing_readme-main/assets/126048258/410b2333-9d
 
 <div><img src="./divider.svg" alt="divider"></div>
 
-Know More
+<div style="color:#CBCBD7; font-size:24px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; padding-bottom:1rem">Know More</div>
 
 For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation.
 
