@@ -108,21 +108,21 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
 <div xmlns="http://www.w3.org/1999/xhtml">
 
-  <style>
+  <!-- <style>
       .image-grid {
           display: grid;
           grid-template-columns: repeat(2,400px); /* Adjust the width of columns as needed */
           grid-gap: 20px; /* Adjust the gap between images */
       }
 
-      /* .image-grid img {
+      .image-grid img {
           width: 90%;
           height: auto;
           cursor: pointer;
-      } */
-  </style>
+      }
+  </style> -->
 
-  <div style="display: grid; grid-template-columns: repeat(2, 200px); grid-gap: 20px; justify-content: center; align-items: center;">
+  <div style="display: grid; grid-template-columns: repeat(2, 100px); grid-gap: 20px; justify-content: center; align-items: center;">
     <a href="www.google.com">
         <img src="./test_ai.svg" alt="Image 1" style="width: 330%; height: 200%; object-fit: cover;">
     </a>
