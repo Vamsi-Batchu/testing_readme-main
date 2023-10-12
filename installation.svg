@@ -13,7 +13,7 @@
                 padding:5px;
                 }
 
-                .gg {
+                .install {
                 color:white;
                 font-size:24px;
                 font-weight:500;
@@ -21,7 +21,7 @@
 
                 }
 
-                .ggg {
+                .data {
                     color:#CBCBD7;
                     font-size:14px;
                     font-weight:px;
@@ -44,10 +44,10 @@
             </style>
             <div class="container">
                 <div class="item">
-                    <div class="gg">
+                    <div class="install">
                         Installation
                     </div>
-                    <div class="ggg">
+                    <div class="data">
                         Covalent is developed using Python version 3.8 on Linux and macOS. The
                         easiest way to install Covalent is using the PyPI package manager:
                     </div>
@@ -70,10 +70,10 @@
 
                 </div>
                 <div style="width:50%;  padding:5px">
-                    <div class="gg">
+                    <div class="install">
                         Getting Started
                     </div>
-                    <div class="ggg">
+                    <div class="data">
                         Ready to try it? Refer to the <a
                             href="https://docs.covalent.xyz/docs/get-started/quick-start/">Quick
                         Start</a> guide for quick setup instructions, or to the <a
@@ -83,7 +83,7 @@
                             href="https://docs.covalent.xyz/docs/user-documentation/compatibility/">compatibility
                         matrix.</a>
                     </div>
-                    <div class="ggg">
+                    <div class="data">
                         For a more in-depth description of Covalent's features and how they work,
                         see the <a
                             href="https://docs.covalent.xyz/docs/user-documentation/concepts/concepts-index/">

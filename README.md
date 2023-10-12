@@ -22,7 +22,6 @@
 Covalent is a Pythonic workflow tool for computational scientists, AI/ML software engineers, and anyone who needs to run experiments on limited or expensive computing resources including quantum computers, HPC clusters, GPU arrays, and cloud services.
 
 Covalent enables a researcher to run computation tasks on an advanced hardware platform – such as a quantum computer or serverless HPC cluster – using a single line of code.
-
   <div align="center" >
    <video  controls>
    <source src="./readme.mp4" type="video/mp4">
@@ -48,7 +47,7 @@ Know More
 
 For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation.
 
-<div>
+<div style=";margin-bottom:-8rem">
   <img src="./know_more_box.svg"  alt="Click to see the source">
 </div>
 
@@ -56,7 +55,7 @@ For a more in-depth description of Covalent's features and how they work, see th
 
 <div><img src="./tutorials.svg" alt="divider"></div>
 
-<div><img src="./second_tutorial.svg" alt="divider"></div>
+<div style=";margin-bottom:-3rem"><img src="./second_tutorial.svg" alt="divider"></div>
 
 <div><img src="./divider.svg" alt="divider"></div>
 
@@ -74,9 +73,13 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
  <div><img src="./divider.svg" alt="divider"></div>
 
- <div><img src="./contributing_heading.svg" alt="divider"></div>
+ <!-- <div><img src="./contributing_heading.svg" alt="divider"></div> -->
 
- <!-- <div style="color:#CBCBD7; font-size:14px; font-weight:400">To contribute to Covalent, refer to the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/CONTRIBUTING.md">Contribution Guidelines</a>. We use GitHub's <a href="https://github.com/AgnostiqHQ/covalent/issues">issue tracking</a>. to manage known issues, bugs, and pull requests. Get started by forking the develop branch and submitting a pull request with your contributions. Improvements to the documentation, including tutorials and how-to guides, are also welcome from the community. For more more information on adding tutorials, check the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/doc/TUTORIAL_GUIDELINES.md">Tutorial Guidelines</a> Participation in the Covalent community is governed by the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>.</div> -->
+  <div style="color:#CBCBD7; font-size:24px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; padding-bottom:1rem">
+    Contributing
+</div>
+
+ <div style="color:#CBCBD7; font-size:14px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">To contribute to Covalent, refer to the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/CONTRIBUTING.md">Contribution Guidelines</a>. We use GitHub's <a href="https://github.com/AgnostiqHQ/covalent/issues">issue tracking</a>. to manage known issues, bugs, and pull requests. Get started by forking the develop branch and submitting a pull request with your contributions. Improvements to the documentation, including tutorials and how-to guides, are also welcome from the community. For more more information on adding tutorials, check the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/doc/TUTORIAL_GUIDELINES.md">Tutorial Guidelines</a> Participation in the Covalent community is governed by the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>.</div>
 
   <div><img src="./divider.svg" alt="divider"></div>
 
@@ -88,11 +91,11 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
   <a href="https://zenodo.org/record/8369670"> https://doi.org/10.5281/zenodo.5903364
   </div> -->
 
-  <div><img src="./citation.svg" alt="divider"></div>
+  <div style=";margin-bottom:-8rem"><img src="./citation.svg" alt="divider"></div>
 
 
 
-   <div><img src="./licence.svg" alt="divider"></div>
+   <div style=";margin-bottom:-15rem"><img src="./licence.svg" alt="divider"></div>
 <!-- <div>
   <img src="./readme_copy.svg"  alt="Click to see the source">
 </div> -->
