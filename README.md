@@ -91,11 +91,11 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
   <a href="https://zenodo.org/record/8369670"> https://doi.org/10.5281/zenodo.5903364
   </div> -->
 
-  <div style="margin-bottom:-8rem"><img src="./citation.svg" alt="divider"></div>
+  <div style="margin-bottom:-12rem"><img src="./citation.svg" alt="divider"></div>
 
 
 
-   <div style=";margin-bottom:-15rem"><img src="./licence.svg" alt="divider"></div>
+   <div style="margin-bottom:-15rem"><img src="./licence.svg" alt="divider"></div>
 <!-- <div>
   <img src="./readme_copy.svg"  alt="Click to see the source">
 </div> -->
