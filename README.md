@@ -83,19 +83,27 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
   <div><img src="./divider.svg" alt="divider"></div>
 
- <!-- <div style="color:#F9F9F9; font-size:24px; font-weight:500;" >Citation</div>
+ <div style="color:#F9F9F9; font-size:24px; font-weight:500;font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; padding-top:1.3rem" >Citation</div>
 
-   <div style="color:#CBCBD7; font-size:14px; font-weight:400">Please use the following citation in any publications</div>
+   <div style="color:#CBCBD7; font-size:14px; font-weight:400;font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;margin-top:1.5rem">Please use the following citation in any publications</div>
 
-  <div style="color:#CBCBD7; font-size:14px; font-weight:400">
+  <div style="color:#CBCBD7; font-size:14px; font-weight:400;font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;padding-bottom:1.3rem">
   <a href="https://zenodo.org/record/8369670"> https://doi.org/10.5281/zenodo.5903364
-  </div> -->
+  </div>
 
-  <div style="margin-bottom:-12rem"><img src="./citation.svg" alt="divider"></div>
+  <!-- <div style=";margin-bottom:-8rem"><img src="./citation.svg" alt="divider"></div> -->
+  <div><img src="./divider.svg" alt="divider"></div>
 
+<div>
+    <div style="color:#F9F9F9; font-size:24px; font-weight:500;font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; padding-bottom:1.5rem">
+        License
+    </div>
+    <div style="color:#CBCBD7; font-size:14px; font-weight:400;font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">Covalent is licensed under the Apache 2.0 License. See the  <a href="https://github.com/AgnostiqHQ/covalent/blob/master/LICENSE" >LICENSE</a>  file or contact the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/LICENSE" class="anch">support team</a> for more details.</div>
+    <div class="para">For a detailed history of changes and new features, see the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/CHANGELOG.md" >Changelog</a></div>
 
+  </div>
 
-   <div style="margin-bottom:-15rem"><img src="./licence.svg" alt="divider"></div>
+   <!-- <div style=";margin-bottom:-15rem"><img src="./licence.svg" alt="divider"></div> -->
 <!-- <div>
   <img src="./readme_copy.svg"  alt="Click to see the source">
 </div> -->
