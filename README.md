@@ -28,7 +28,7 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
    <source src="./readme.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
-https://github.com/Vamsi-Batchu/testing_readme-main/assets/126048258/410b2333-9d68-4930-b18f-a6f70ded6032
+<!-- https://github.com/Vamsi-Batchu/testing_readme-main/assets/126048258/410b2333-9d68-4930-b18f-a6f70ded6032 -->
  </div>
 
  <div align="center">
@@ -54,6 +54,7 @@ For a more in-depth description of Covalent's features and how they work, see th
 </div>
 
 <div><img src="./divider.svg" alt="divider"></div>
+
 
 <div><img src="./tutorials.svg" alt="divider"></div>
 
@@ -104,6 +105,39 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
     <div class="para">For a detailed history of changes and new features, see the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/CHANGELOG.md" >Changelog</a></div>
 
   </div>
+
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+  <style>
+      .image-grid {
+          display: grid;
+          grid-template-columns: repeat(2,400px); /* Adjust the width of columns as needed */
+          grid-gap: 20px; /* Adjust the gap between images */
+      }
+
+      /* .image-grid img {
+          width: 90%;
+          height: auto;
+          cursor: pointer;
+      } */
+  </style>
+
+  <div style="display: grid; grid-template-columns: repeat(2, 200px); grid-gap: 20px; justify-content: center; align-items: center;">
+    <a href="www.google.com">
+        <img src="./test_ai.svg" alt="Image 1" style="width: 330%; height: 200%; object-fit: cover;">
+    </a>
+    <a href="page2.html">
+        <img src="./test_ai.svg" alt="Image 2">
+    </a>
+    <a href="page3.html">
+        <img src="./test_ai.svg" alt="Image 3">
+    </a>
+    <a href="page4.html">
+        <img src="./test_ai.svg" alt="Image 4">
+    </a>
+  </div>
+
+</div>
 
    <!-- <div style=";margin-bottom:-15rem"><img src="./licence.svg" alt="divider"></div> -->
 <!-- <div>
