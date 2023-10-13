@@ -25,7 +25,8 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
   <div align="center" >
    <video  controls>
 
-   <source src="./readme.mp4" type="video/mp4">
+   <!-- <source src="./readme.mp4" type="video/mp4"> -->
+   ![abc](https://github.com/Vamsi-Batchu/testing_readme-main/assets/126048258/410b2333-9d68-4930-b18f-a6f70ded6032)
   Your browser does not support the video tag.
 </video> 
 <!-- https://github.com/Vamsi-Batchu/testing_readme-main/assets/126048258/410b2333-9d68-4930-b18f-a6f70ded6032 -->
@@ -39,8 +40,90 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
   <img src="./development.svg"  alt="executors"></img>
  </div>
 
-<div >
-  <img src="./installation.svg"  alt="Click to see the source">
+<div style="display:flex">
+<style>
+
+    .container {
+    display: flex;
+    margin:38px 0 20px 0;
+    }
+
+    .item {
+    width:50%;
+    padding:5px;
+    }
+
+    .install {
+    color:white;
+    font-size:24px;
+    font-weight:500;
+    font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+
+    }
+
+    .data {
+        color:#CBCBD7;
+        font-size:14px;
+        font-weight:px;
+        font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+        margin:21px 0 0 0;
+        }
+
+    .pip {
+        background:#171B21;
+        font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+        color:#89BEFA;
+        border-radius:6px;
+        display:flex;
+        justify-content:space-between;
+        width:70%;
+        padding:12px 10px;
+        font-size:14px;
+        margin:30px 0 0 0;
+        }
+  </style>
+  <!-- <img src="./installation.svg"  alt="Click to see the source"> -->
+  <div class="item">
+    <div class="install">
+        Installation
+    </div>
+    <div class="data">
+        Covalent is developed using Python version 3.8 on Linux and macOS. The
+        easiest way to install Covalent is using the PyPI package manager:
+    </div>
+    <div
+        class="pip">
+        <div>$ pip install covalent</div>
+          <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
+          xmlns="http://www.w3.org/2000/svg">
+          <rect x="0.5" y="0.5" width="15.0769" height="17.3333" rx="1.5"
+              stroke="#86869A" />
+          <rect x="6.4231" y="4.16662" width="15.0769" height="17.3333"
+              rx="1.5"
+              stroke="#86869A" />
+        </svg>
+    </div>
+  </div>
+  <div style="width:50%;  padding:5px">
+    <div class="install">
+        Getting Started
+    </div>
+    <div class="data">
+        Ready to try it? Refer to the <a
+            href="https://docs.covalent.xyz/docs/get-started/quick-start/">Quick
+        Start</a> guide for quick setup instructions, or to the <a
+            href="https://docs.covalent.xyz/docs/get-started/first-experiment/">First
+        Experiment</a> guide for a more thorough approach. For a full list of
+        supported platforms, see the Covalent <a
+            href="https://docs.covalent.xyz/docs/user-documentation/compatibility/">compatibility
+        matrix.</a>
+    </div>
+    <div class="data">
+        For a more in-depth description of Covalent's features and how they work,
+        see the <a
+            href="https://docs.covalent.xyz/docs/user-documentation/concepts/concepts-index/">
+        Concepts</a> page in the documentation. </div>
+</div>
 </div>
 
 <div><img src="./divider.svg" alt="divider"></div>
