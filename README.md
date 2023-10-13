@@ -53,7 +53,7 @@ For a more in-depth description of Covalent's features and how they work, see th
   <img src="./know_more_box.svg"  alt="Click to see the source">
 </div> -->
 
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: space-between">
     <a href="https://www.covalent.xyz/what-is-covalent/">
         <img src="images/what.png" alt="Image 1" >
     </a>
