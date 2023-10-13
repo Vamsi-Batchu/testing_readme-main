@@ -49,9 +49,24 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
 
 For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation.
 
-<div style=";margin-bottom:-8rem">
+<!-- <div style=";margin-bottom:-8rem">
   <img src="./know_more_box.svg"  alt="Click to see the source">
-</div>
+</div> -->
+
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.covalent.xyz/what-is-covalent/">
+        <img src="images/what.png" alt="Image 1" >
+    </a>
+    <a href="https://www.covalent.xyz/navigating-the-modern-hpc-landscape/">
+        <img src="images/era.png" alt="Image 2">
+    </a>
+    <a href="https://docs.covalent.xyz/docs/user-documentation/concepts/covalent-basics/">
+        <img src="images/concepts.png" alt="Image 3">
+    </a>
+        <a href="https://github.com/AgnostiqHQ/covalent/blob/develop/README.md#how-does-it-work">
+        <img src="images/how.png" alt="Image 3">
+    </a>
+  </div>
 
 <div><img src="./divider.svg" alt="divider"></div>
 
