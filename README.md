@@ -56,9 +56,22 @@ For a more in-depth description of Covalent's features and how they work, see th
 <div><img src="./divider.svg" alt="divider"></div>
 
 
-<div><img src="./tutorials.svg" alt="divider"></div>
+  <div style="color:#CBCBD7; font-size:24px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; padding-bottom:1rem">
+    Tutorials
+</div>
 
-<div style=";margin-bottom:-3rem"><img src="./second_tutorial.svg" alt="divider"></div>
+  <div style="display: grid; grid-template-columns: repeat(3, 100px); grid-gap: 20px; justify-content: center; align-items: center;">
+    <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/mnist">
+        <img src="images/mnist.png" alt="Image 1" >
+    </a>
+    <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/quantumchemistry">
+        <img src="images/quantumChem.png" alt="Image 2">
+    </a>
+    <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/generativeai">
+        <img src="images/api.png" alt="Image 3">
+    </a>
+  </div>
+
 
 <div><img src="./divider.svg" alt="divider"></div>
 
@@ -106,38 +119,6 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
   </div>
 
-<div xmlns="http://www.w3.org/1999/xhtml">
-
-  <!-- <style>
-      .image-grid {
-          display: grid;
-          grid-template-columns: repeat(2,400px); /* Adjust the width of columns as needed */
-          grid-gap: 20px; /* Adjust the gap between images */
-      }
-
-      .image-grid img {
-          width: 90%;
-          height: auto;
-          cursor: pointer;
-      }
-  </style> -->
-
-  <div style="display: grid; grid-template-columns: repeat(2, 100px); grid-gap: 20px; justify-content: center; align-items: center;">
-    <a href="www.google.com">
-        <img src="/images/test_ai.svg" alt="Image 1" style="width: 90%; height: 80%; object-fit: cover;">
-    </a>
-    <a href="page2.html">
-        <img src="./test_ai.svg" alt="Image 2" style="width: 90%; height: 90%; object-fit: cover">
-    </a>
-    <a href="page3.html">
-        <img src="./test_ai.svg" alt="Image 3" style="width: 100%; height: 120%; object-fit: cover">
-    </a>
-    <a href="page4.html">
-        <img src="./test_ai.svg" alt="Image 4" style="width: 120%; height: 120%; object-fit: cover">
-    </a>
-  </div>
-
-</div>
 
    <!-- <div style=";margin-bottom:-15rem"><img src="./licence.svg" alt="divider"></div> -->
 <!-- <div>
