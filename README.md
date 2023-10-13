@@ -26,9 +26,9 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
    <video  controls>
 
    <!-- <source src="./readme.mp4" type="video/mp4"> -->
-   ![abc](https://github.com/Vamsi-Batchu/testing_readme-main/assets/126048258/410b2333-9d68-4930-b18f-a6f70ded6032)
   Your browser does not support the video tag.
 </video> 
+![abc](./readme.mp4)
 <!-- https://github.com/Vamsi-Batchu/testing_readme-main/assets/126048258/410b2333-9d68-4930-b18f-a6f70ded6032 -->
  </div>
 
@@ -40,59 +40,18 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
   <img src="./development.svg"  alt="executors"></img>
  </div>
 
-<div style="display:flex">
-<style>
-
-    .container {
-    display: flex;
-    margin:38px 0 20px 0;
-    }
-
-    .item {
-    width:50%;
-    padding:5px;
-    }
-
-    .install {
-    color:white;
-    font-size:24px;
-    font-weight:500;
-    font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-
-    }
-
-    .data {
-        color:#CBCBD7;
-        font-size:14px;
-        font-weight:px;
-        font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-        margin:21px 0 0 0;
-        }
-
-    .pip {
-        background:#171B21;
-        font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-        color:#89BEFA;
-        border-radius:6px;
-        display:flex;
-        justify-content:space-between;
-        width:70%;
-        padding:12px 10px;
-        font-size:14px;
-        margin:30px 0 0 0;
-        }
-  </style>
+<div style="display:flex; margin:38px 0 20px 0;">
   <!-- <img src="./installation.svg"  alt="Click to see the source"> -->
-  <div class="item">
-    <div class="install">
+  <div style=" width:50%; padding:5px;">
+    <div style="color:white; font-size:24px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;">
         Installation
     </div>
-    <div class="data">
+    <div style="color:#CBCBD7; font-size:14px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; ">
         Covalent is developed using Python version 3.8 on Linux and macOS. The
         easiest way to install Covalent is using the PyPI package manager:
     </div>
     <div
-        class="pip">
+        style="background:#171B21;font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; color:#89BEFA; border-radius:6px; display:flex;       justify-content:space-between; width:70%;      padding:12px 10px; font-size:14px;       margin:30px 0 0 0;">
         <div>$ pip install covalent</div>
           <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
           xmlns="http://www.w3.org/2000/svg">
@@ -105,10 +64,10 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
     </div>
   </div>
   <div style="width:50%;  padding:5px">
-    <div class="install">
+    <div style="color:white; font-size:24px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;">
         Getting Started
     </div>
-    <div class="data">
+    <div style="color:#CBCBD7; font-size:14px; font-weight:400; font-family:Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; ">
         Ready to try it? Refer to the <a
             href="https://docs.covalent.xyz/docs/get-started/quick-start/">Quick
         Start</a> guide for quick setup instructions, or to the <a
