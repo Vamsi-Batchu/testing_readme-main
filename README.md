@@ -75,7 +75,7 @@ For a more in-depth description of Covalent's features and how they work, see th
     Tutorials
 </div>
 
-  <div style="display: grid; grid-template-columns: repeat(3, 100px); grid-gap: 20px; justify-content: center; align-items: center;">
+  <div style="display: grid; grid-template-columns: repeat(4, 300px); grid-gap: 100px;">
     <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/mnist">
         <img src="images/mnist.png" alt="Image 1" >
     </a>
