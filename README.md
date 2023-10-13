@@ -68,7 +68,7 @@ For a more in-depth description of Covalent's features and how they work, see th
     </a>
   </div> -->
 
-<div style="display: grid; grid-template-columns: repeat(4, 100px); grid-gap: 45px; justify-content: space-around;">
+<div style="display: grid; grid-template-columns: repeat(4, 200px); grid-gap: 45px; justify-content: space-around;">
     <a href="https://www.covalent.xyz/what-is-covalent/">
       <img src="images/what.svg" alt="Image 1" >
     </a>
