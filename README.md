@@ -53,7 +53,7 @@ For a more in-depth description of Covalent's features and how they work, see th
   <img src="./know_more_box.svg"  alt="Click to see the source">
 </div> -->
 
-  <div style="display: grid; grid-template-columns: repeat(4, 100px); grid-gap: 45px; justify-content: space-around;">
+  <!-- <div style="display: grid; grid-template-columns: repeat(4, 100px); grid-gap: 45px; justify-content: space-around;">
     <a href="https://www.covalent.xyz/what-is-covalent/">
         <img src="images/what.png" alt="Image 1" >
     </a>
@@ -66,6 +66,21 @@ For a more in-depth description of Covalent's features and how they work, see th
         <a href="https://github.com/AgnostiqHQ/covalent/blob/develop/README.md#how-does-it-work">
         <img src="images/how.png" alt="Image 3">
     </a>
+  </div> -->
+
+<div style="display: grid; grid-template-columns: repeat(4, 100px); grid-gap: 45px; justify-content: space-around;">
+    <a href="https://www.covalent.xyz/what-is-covalent/">
+      <img src="images/what.svg" alt="Image 1" >
+    </a>
+    <a href="https://www.covalent.xyz/navigating-the-modern-hpc-landscape/">
+      <img src="images/era.svg" alt="Image 2">
+    </a>
+    <a href="https://docs.covalent.xyz/docs/user-documentation/concepts/covalent-basics/">
+      <img src="images/concepts.svg" alt="Image 3">
+    </a>
+    <a href="https://github.com/AgnostiqHQ/covalent/blob/develop/README.md#how-does-it-work">
+      <img src="images/how.svg" alt="Image 3">
+    </a>
   </div>
   
 <div><img src="./divider.svg" alt="divider"></div>
@@ -75,7 +90,7 @@ For a more in-depth description of Covalent's features and how they work, see th
     Tutorials
 </div>
 
-  <div style="display: grid; grid-template-columns: repeat(4, 300px); grid-gap: 100px;">
+  <div style="display: grid; grid-template-columns: repeat(4, 100px); grid-gap: 30px;">
     <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/mnist">
         <img src="images/mnist.png" alt="Image 1" >
     </a>
