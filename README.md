@@ -1,3 +1,4 @@
+<div>
 <div align="center"> 
   <img src="./readme_hero.svg" style="width:100%"  alt="hero"/>
  </div>
@@ -142,13 +143,13 @@ For a more in-depth description of Covalent's features and how they work, see th
 </div>
 
   <div style="display: grid; grid-template-columns: repeat(4, 100px); grid-gap: 30px;">
-    <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/mnist">
+    <a href="https://docs.covalent.xyz/docs/user-documentation/tutorials/mnist">
         <img src="images/mnist.png" alt="Image 1" >
     </a>
-    <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/quantumchemistry">
+    <a href="https://docs.covalent.xyz/docs/user-documentation/tutorials/quantumchemistry">
         <img src="images/quantumChem.png" alt="Image 2">
     </a>
-    <a href="https://docs.covalent.xyz/docs//docs/user-documentation/tutorials/generativeai">
+    <a href="https://docs.covalent.xyz/docs/user-documentation/tutorials/generativeai">
         <img src="images/api.png" alt="Image 3">
     </a>
   </div>
