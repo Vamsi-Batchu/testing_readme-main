@@ -1,7 +1,12 @@
-<div>
+<link rel="stylesheet" href="style.css">
+
+<div class="head">
+
 <div align="center"> 
   <img src="./readme_hero.svg" style="width:100%"  alt="hero"/>
  </div>
+
+![Colored Background Image]()
 
 <div align="center">
 
